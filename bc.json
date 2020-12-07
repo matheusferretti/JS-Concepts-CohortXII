@@ -116,7 +116,7 @@
         {
             "slug": "08-Create-a-basic-HTML",
             "title": "08-Create-a-basic-HTML",
-            "done": false,
+            "done": true,
             "path": "exercises/08-Create-a-basic-HTML",
             "translations": [
                 "es",
