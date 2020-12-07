@@ -149,7 +149,7 @@
         {
             "slug": "11-Create-a-new-function",
             "title": "11-Create-a-new-function",
-            "done": false,
+            "done": true,
             "path": "exercises/11-Create-a-new-function",
             "translations": [
                 "es",
