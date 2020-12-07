@@ -127,7 +127,7 @@
         {
             "slug": "09-Calling-your-first-function",
             "title": "09-Calling-your-first-function",
-            "done": false,
+            "done": true,
             "path": "exercises/09-Calling-your-first-function",
             "translations": [
                 "es",
