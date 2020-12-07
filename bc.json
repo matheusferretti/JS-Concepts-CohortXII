@@ -94,7 +94,7 @@
         {
             "slug": "06-Constants",
             "title": "06-Constants",
-            "done": false,
+            "done": true,
             "path": "exercises/06-Constants",
             "translations": [
                 "es",
